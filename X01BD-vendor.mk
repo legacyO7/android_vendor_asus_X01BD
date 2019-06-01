@@ -40,6 +40,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X01BD/proprietary/framework/com.qti.dpmframework.jar:system/framework/com.qti.dpmframework.jar \
     vendor/asus/X01BD/proprietary/vendor/framework/com.qualcomm.qti.imscmservice-V2.0-java.jar:$(TARGET_COPY_OUT_VENDOR)/framework/com.qualcomm.qti.imscmservice-V2.0-java.jar \
     vendor/asus/X01BD/proprietary/vendor/framework/com.qualcomm.qti.imscmservice-V2.1-java.jar:$(TARGET_COPY_OUT_VENDOR)/framework/com.qualcomm.qti.imscmservice-V2.1-java.jar \
+    vendor/asus/X01BD/proprietary/framework/com.android.media.remotedisplay.jar:$(TARGET_COPY_OUT_VENDOR)/framework/com.android.media.remotedisplay.jar \
     vendor/asus/X01BD/proprietary/framework/com.qualcomm.qti.uceservice-V2.0-java.jar:system/framework/com.qualcomm.qti.uceservice-V2.0-java.jar \
     vendor/asus/X01BD/proprietary/framework/com.quicinc.cne.api-V1.0-java.jar:system/framework/com.quicinc.cne.api-V1.0-java.jar \
     vendor/asus/X01BD/proprietary/framework/com.quicinc.cne.api-V1.1-java.jar:system/framework/com.quicinc.cne.api-V1.1-java.jar \
