@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X01BD/proprietary/vendor/bin/nvram_btwifi:$(TARGET_COPY_OUT_VENDOR)/bin/nvram_btwifi \
     vendor/asus/X01BD/proprietary/bin/wfdservice:system/bin/wfdservice \
     vendor/asus/X01BD/proprietary/etc/dpm/dpm.conf:system/etc/dpm/dpm.conf \
+	vendor/asus/X01BD/proprietary/etc/permissions/privapp-permissions-org.codeaurora.snapcam.xml:system/etc/permissions/privapp-permissions-org.codeaurora.snapcam.xml \
     vendor/asus/X01BD/proprietary/etc/init/dpmd.rc:system/etc/init/dpmd.rc \
     vendor/asus/X01BD/proprietary/etc/init/wfdservice.rc:system/etc/init/wfdservice.rc \
     vendor/asus/X01BD/proprietary/etc/permissions/cneapiclient.xml:system/etc/permissions/cneapiclient.xml \
@@ -122,6 +123,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X01BD/proprietary/lib64/extractors/libmmparser.so:system/lib64/extractors/libmmparser.so \
     vendor/asus/X01BD/proprietary/vendor/lib64/libaacwrapper.so:system/lib64/libaacwrapper.so \
     vendor/asus/X01BD/proprietary/lib64/fm_helium.so:system/lib64/fm_helium.so \
+	vendor/asus/X01BD/proprietary/lib64/libhqmpbase.so:system/lib64/libhqmpbase.so \
     vendor/asus/X01BD/proprietary/lib64/lib-imscamera.so:system/lib64/lib-imscamera.so \
     vendor/asus/X01BD/proprietary/lib64/lib-imsvideocodec.so:system/lib64/lib-imsvideocodec.so \
     vendor/asus/X01BD/proprietary/lib64/lib-imsvt.so:system/lib64/lib-imsvt.so \
